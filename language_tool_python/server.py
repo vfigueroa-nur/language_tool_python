@@ -735,7 +735,7 @@ class LanguageTool:
             / "org"
             / "languagetool"
             / "resource"
-            / "en"
+            / "es"
             / "hunspell"
             / "spelling.txt"
         )
